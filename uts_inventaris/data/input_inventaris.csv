@@ -1,0 +1,10 @@
+kode_barang,nama_barang,kategori,stok,harga_satuan
+BRG001,Mouse Wireless Logitech,Aksesoris,25,150000
+BRG002,Keyboard Mechanical RGB,Aksesoris,4,450000
+BRG003,Monitor IPS 24 Inch,Monitor,8,1850000
+BRG001,Mouse Wireless Logitech Duplikat,Aksesoris,25,150000
+BRG004,Kabel HDMI 2 Meter,Kabel,3,45000
+BRG005,Flashdisk 64GB,Penyimpanan,-10,85000
+BRG006,SSD NVMe 512GB,Penyimpanan,12,750000
+BRG007,Webcam HD 1080p,Aksesoris,2,320000
+BRG008,Laptop Stand Aluminium,Aksesoris,tidak_valid,120000

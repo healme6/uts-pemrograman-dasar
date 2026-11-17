@@ -1,0 +1,90 @@
+{
+    "ringkasan": {
+        "total_jenis_barang_valid": 6,
+        "total_baris_diabaikan": 3,
+        "total_nilai_aset_keseluruhan": 30125000.0,
+        "jumlah_barang_stok_menipis": 3
+    },
+    "rekap_aset_per_kategori": {
+        "Aksesoris": 6190000.0,
+        "Kabel": 135000.0,
+        "Penyimpanan": 9000000.0,
+        "Monitor": 14800000.0
+    },
+    "peringatan_stok_menipis": [
+        {
+            "kode_barang": "BRG002",
+            "nama_barang": "Keyboard Mechanical RGB",
+            "kategori": "Aksesoris",
+            "stok": 4,
+            "harga_satuan": 450000.0,
+            "total_nilai": 1800000.0
+        },
+        {
+            "kode_barang": "BRG004",
+            "nama_barang": "Kabel HDMI 2 Meter",
+            "kategori": "Kabel",
+            "stok": 3,
+            "harga_satuan": 45000.0,
+            "total_nilai": 135000.0
+        },
+        {
+            "kode_barang": "BRG007",
+            "nama_barang": "Webcam HD 1080p",
+            "kategori": "Aksesoris",
+            "stok": 2,
+            "harga_satuan": 320000.0,
+            "total_nilai": 640000.0
+        }
+    ],
+    "daftar_inventaris_bersih": [
+        {
+            "kode_barang": "BRG001",
+            "nama_barang": "Mouse Wireless Logitech",
+            "kategori": "Aksesoris",
+            "stok": 25,
+            "harga_satuan": 150000.0,
+            "total_nilai": 3750000.0
+        },
+        {
+            "kode_barang": "BRG002",
+            "nama_barang": "Keyboard Mechanical RGB",
+            "kategori": "Aksesoris",
+            "stok": 4,
+            "harga_satuan": 450000.0,
+            "total_nilai": 1800000.0
+        },
+        {
+            "kode_barang": "BRG003",
+            "nama_barang": "Monitor IPS 24 Inch",
+            "kategori": "Monitor",
+            "stok": 8,
+            "harga_satuan": 1850000.0,
+            "total_nilai": 14800000.0
+        },
+        {
+            "kode_barang": "BRG004",
+            "nama_barang": "Kabel HDMI 2 Meter",
+            "kategori": "Kabel",
+            "stok": 3,
+            "harga_satuan": 45000.0,
+            "total_nilai": 135000.0
+        },
+        {
+            "kode_barang": "BRG006",
+            "nama_barang": "SSD NVMe 512GB",
+            "kategori": "Penyimpanan",
+            "stok": 12,
+            "harga_satuan": 750000.0,
+            "total_nilai": 9000000.0
+        },
+        {
+            "kode_barang": "BRG007",
+            "nama_barang": "Webcam HD 1080p",
+            "kategori": "Aksesoris",
+            "stok": 2,
+            "harga_satuan": 320000.0,
+            "total_nilai": 640000.0
+        }
+    ]
+}
